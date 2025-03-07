@@ -1,0 +1,15 @@
+{
+	"fixed": {
+		"file_version": "{{.Info.ProductVersion}}"
+	},
+	"info": {
+		"0000": {
+			"ProductVersion": "1.0.1",
+			"CompanyName": "Ryze",
+			"FileDescription": "PDF Ryze",
+			"LegalCopyright": "Copyright (c) 2024",
+			"ProductName": "PDF Ryze",
+			"Comments": ""
+		}
+	}
+}
